@@ -1,0 +1,30 @@
+CrimeTXT[0] = TextDrawCreate(322.000000, 406.000000, "15:00");
+TextDrawLetterSize(CrimeTXT[0], 0.372999, 1.363750);
+TextDrawAlignment(CrimeTXT[0], 2);
+TextDrawColor(CrimeTXT[0], -1);
+TextDrawSetShadow(CrimeTXT[0], 0);
+TextDrawSetOutline(CrimeTXT[0], 1);
+TextDrawBackgroundColor(CrimeTXT[0], 51);
+TextDrawFont(CrimeTXT[0], 3);
+TextDrawSetProportional(CrimeTXT[0], 1);
+
+CrimeTXT[1] = TextDrawCreate(357.000000, 395.250000, "usebox");
+TextDrawLetterSize(CrimeTXT[1], 0.013000, 0.923402);
+TextDrawTextSize(CrimeTXT[1], 287.000000, 0.000000);
+TextDrawAlignment(CrimeTXT[1], 1);
+TextDrawColor(CrimeTXT[1], 0);
+TextDrawUseBox(CrimeTXT[1], true);
+TextDrawBoxColor(CrimeTXT[1], 102);
+TextDrawSetShadow(CrimeTXT[1], 0);
+TextDrawSetOutline(CrimeTXT[1], 0);
+TextDrawFont(CrimeTXT[1], 0);
+
+CrimeTXT[2] = TextDrawCreate(293.000000, 392.875000, "BIZWAR TIME");
+TextDrawLetterSize(CrimeTXT[2], 0.224000, 1.184374);
+TextDrawAlignment(CrimeTXT[2], 1);
+TextDrawColor(CrimeTXT[2], -1);
+TextDrawSetShadow(CrimeTXT[2], 0);
+TextDrawSetOutline(CrimeTXT[2], 1);
+TextDrawBackgroundColor(CrimeTXT[2], 51);
+TextDrawFont(CrimeTXT[2], 2);
+TextDrawSetProportional(CrimeTXT[2], 1);

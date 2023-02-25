@@ -1,0 +1,94 @@
+buy_skins[0] = TextDrawCreate(258.666656, 423.608856, "LD_SPAC:white");
+TextDrawLetterSize(buy_skins[0], 0.000000, 0.000000);
+TextDrawTextSize(buy_skins[0], 40.444458, 14.933320);
+TextDrawAlignment(buy_skins[0], 1);
+TextDrawColor(buy_skins[0], -668447489);
+TextDrawSetShadow(buy_skins[0], 0);
+TextDrawSetOutline(buy_skins[0], 0);
+TextDrawFont(buy_skins[0], 4);
+TextDrawSetSelectable(buy_skins[0], true);
+
+buy_skins[1] = TextDrawCreate(322.333404, 423.115509, "LD_SPAC:white");
+TextDrawLetterSize(buy_skins[1], 0.000000, 0.000000);
+TextDrawTextSize(buy_skins[1], 40.444458, 14.933320);
+TextDrawAlignment(buy_skins[1], 1);
+TextDrawColor(buy_skins[1], -668447489);
+TextDrawSetShadow(buy_skins[1], 0);
+TextDrawSetOutline(buy_skins[1], 0);
+TextDrawFont(buy_skins[1], 4);
+TextDrawSetSelectable(buy_skins[1], true);
+
+buy_skins[2] = TextDrawCreate(268.666656, 424.115631, "buy");
+TextDrawLetterSize(buy_skins[2], 0.217999, 1.316264);
+TextDrawAlignment(buy_skins[2], 1);
+TextDrawColor(buy_skins[2], -1);
+TextDrawSetShadow(buy_skins[2], 1);
+TextDrawSetOutline(buy_skins[2], 0);
+TextDrawBackgroundColor(buy_skins[2], 255);
+TextDrawFont(buy_skins[2], 2);
+TextDrawSetProportional(buy_skins[2], 1);
+
+buy_skins[3] = TextDrawCreate(332.777709, 424.120086, "exit");
+TextDrawLetterSize(buy_skins[3], 0.217999, 1.316264);
+TextDrawAlignment(buy_skins[3], 1);
+TextDrawColor(buy_skins[3], -1);
+TextDrawSetShadow(buy_skins[3], 1);
+TextDrawSetOutline(buy_skins[3], 0);
+TextDrawBackgroundColor(buy_skins[3], 255);
+TextDrawFont(buy_skins[3], 2);
+TextDrawSetProportional(buy_skins[3], 1);
+
+buy_skins[4] = TextDrawCreate(364.222229, 406.691101, "usebox");
+TextDrawLetterSize(buy_skins[4], 0.000000, 1.066050);
+TextDrawTextSize(buy_skins[4], 256.666656, 0.000000);
+TextDrawAlignment(buy_skins[4], 1);
+TextDrawColor(buy_skins[4], 0);
+TextDrawUseBox(buy_skins[4], true);
+TextDrawBoxColor(buy_skins[4], -668447594);
+TextDrawSetShadow(buy_skins[4], 0);
+TextDrawSetOutline(buy_skins[4], 0);
+TextDrawFont(buy_skins[4], 0);
+
+buy_skins[5] = TextDrawCreate(361.333221, 398.720062, "LD_BEAT:chit");
+TextDrawLetterSize(buy_skins[5], 0.009777, 0.199110);
+TextDrawTextSize(buy_skins[5], 39.555564, 45.297744);
+TextDrawAlignment(buy_skins[5], 1);
+TextDrawColor(buy_skins[5], -668447489);
+TextDrawSetShadow(buy_skins[5], 0);
+TextDrawSetOutline(buy_skins[5], 0);
+TextDrawFont(buy_skins[5], 4);
+TextDrawSetSelectable(buy_skins[5], true);
+TextDrawSetPreviewModel(buy_skins[5], 19134);
+TextDrawSetPreviewRot(buy_skins[5], 100.000000, -100.000000, 0.000000, 1.000000);
+
+buy_skins[6] = TextDrawCreate(220.555435, 398.724517, "LD_BEAT:chit");
+TextDrawLetterSize(buy_skins[6], 0.009777, 0.199111);
+TextDrawTextSize(buy_skins[6], 39.555564, 45.297744);
+TextDrawAlignment(buy_skins[6], 1);
+TextDrawColor(buy_skins[6], -668447489);
+TextDrawSetShadow(buy_skins[6], 0);
+TextDrawSetOutline(buy_skins[6], 0);
+TextDrawFont(buy_skins[6], 4);
+TextDrawSetSelectable(buy_skins[6], true);
+TextDrawSetPreviewModel(buy_skins[6], 19134);
+TextDrawSetPreviewRot(buy_skins[6], 100.000000, -100.000000, 0.000000, 1.000000);
+
+buy_skins[7] = TextDrawCreate(376.889007, 409.191223, ">");
+TextDrawLetterSize(buy_skins[7], 0.494888, 2.754842);
+TextDrawAlignment(buy_skins[7], 1);
+TextDrawColor(buy_skins[7], -1);
+TextDrawSetShadow(buy_skins[7], 1);
+TextDrawSetOutline(buy_skins[7], 0);
+TextDrawBackgroundColor(buy_skins[7], 255);
+TextDrawFont(buy_skins[7], 2);
+TextDrawSetProportional(buy_skins[7], 1);
+
+buy_skins[8] = TextDrawCreate(233.000167, 408.697814, "<");
+TextDrawLetterSize(buy_skins[8], 0.494888, 2.754842);
+TextDrawAlignment(buy_skins[8], 1);
+TextDrawColor(buy_skins[8], -1);
+TextDrawSetShadow(buy_skins[8], 1);
+TextDrawSetOutline(buy_skins[8], 0);
+TextDrawBackgroundColor(buy_skins[8], 255);
+TextDrawFont(buy_skins[8], 2);
+TextDrawSetProportional(buy_skins[8], 1);

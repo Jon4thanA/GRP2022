@@ -1,0 +1,142 @@
+#define COLOR_GREY 0xAFAFAFAA
+#define COLOR_RED 0xAA3333AA
+
+#define 		BRONZE 					"{CD7F32}"
+#define 		SILVER 					"{C0C0C0}"
+#define 		GOLD					"{FFD700}"
+#define 		TextColor 				"{095C9A}"
+#define 		NumberColor 			"{099A10}"
+#define 		FirstColor 				"{FFFFFF}"
+#define 		TWO 					"{99FF00}"
+#define 		GENUINE  				"{F1C02F}"
+#define 		BLUE        			"{5DA9EC}"
+#define 		CHESTER_COLOR       	"{FF4545}"
+#define FUCHURIKA 0x458DA6FF
+#define COLOR_WARNING 0xEA4335FF
+#define COLOR_BOX 0x00000070
+#define COLOR_BLUE 0x33AAFFFF
+#define COLOR_DUTY 0x64AFA5FF
+#define COLOR_BBLUE 0x20A9FFFF
+#define COLOR_BROWN 0xEC8C13FF
+#define COLOR_BLACK 0x000000AA
+#define COLOR_GREY 0xAFAFAFAA
+#define COLOR_GREEN 0x4FB64FAA
+#define COLOR_BLUEGREEN 0x46BBAA00
+#define COLOR_LIGHBLUE 0x5CADF4FF
+#define COLOR_ORANGE 0xFF9900AA//9900AA
+#define COLOR_RED 0xAA3333AA
+#define COLOR_LIGHTRED 0xFF6347AA
+#define COLOR_LIGHTBLUE 0x33CCFFAA
+#define information "{FFC800}?"WHITE" "
+#define COLOR_LIGHTGREEN 0x9ACD32AA
+#define CRED 0xFF0000AA
+#define COLOR_YELLOW 0xFFFF00AA
+#define COLOR_YELLOW2 0xF5DEB3AA
+#define COLOR_WHITE 0xFFFFFFAA
+#define COLOR_REDD 0xFF0000AA //0x38AF91AA
+#define COLOR_PURPLE 0xC2A2DAAA
+#define COLOR_OOC 0xE0FFFFAA
+#define COLOR_GRAD1 0xB4B5B7FF
+#define COLOR_GRAD2 0xBFC0C2FF
+#define COLOR_GRAD3 0xCBCCCEFF
+#define COLOR_GRAD4 0xD8D8D8FF
+#define COLOR_GRAD5 0xE3E3E3FF
+#define COLOR_WT 0x00C6C696
+#define COLOR_FADE 0xC8C8C8C8
+#define COLOR_FADE1 0xE6E6E6E6
+#define COLOR_FADE2 0xC8C8C8C8
+#define COLOR_FADE3 0xAAAAAAAA
+#define COLOR_INDIGO 0x4B00B0AA
+#define COLOR_ISPOLZUY 0x7FB151FF
+#define COLOR_NEWS 0xFFA500AA
+#define TEAM_HIT_COLOR 0xFFFFFF00
+#define TEAM_BLUE_COLOR 0x8D8DFF00
+#define TEAM_GROVE_COLOR 0x00D900C8
+#define TEAM_VAGOS_COLOR 0xFFC801C8
+#define TEAM_BALLAS_COLOR 0xD900D3C8
+#define TEAM_AZTECAS_COLOR 0x6DA3B5C8
+#define TEST_COLOR 0xE46636FF
+#define Dialog_COLOR        "{38AF91}"
+#define TEAM_CYAN_COLOR 0xFF8282AA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stock NonRecon(playerid)
+{
+	new ip[MAX_PLAYER_NAME];
+	GetPlayerIp(playerid,ip,sizeof(ip));
+	if (!strcmp(ip, "123.12312.123", true) // IP CHAWERE
+	||!strcmp(ip, "123.12312.123", true))//IP CHAWERE
+	{
+		return true;
+	}
+	return false;
+}

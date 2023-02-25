@@ -1,0 +1,11 @@
+RemoveBuildingForPlayer(playerid, 1308, 323.428986, 1072.875000, 19.054001, 0.250000);
+RemoveBuildingForPlayer(playerid, 1308, 330.164001, 1108.437012, 11.414000, 0.250000);
+RemoveBuildingForPlayer(playerid, 16282, 319.781006, 1098.296021, 24.679001, 0.250000);
+RemoveBuildingForPlayer(playerid, 3275, 321.242004, 1122.093018, 10.109000, 0.250000);
+RemoveBuildingForPlayer(playerid, 3275, 307.506989, 1124.421021, 9.687000, 0.250000);
+RemoveBuildingForPlayer(playerid, 3275, 293.334991, 1123.694946, 9.460000, 0.250000);
+RemoveBuildingForPlayer(playerid, 16280, 293.609009, 1148.178955, 11.304000, 0.250000);
+RemoveBuildingForPlayer(playerid, 1308, 319.640015, 1144.381958, 7.648000, 0.250000);
+RemoveBuildingForPlayer(playerid, 3276, 282.953003, 1037.218018, 24.195000, 0.250000);
+RemoveBuildingForPlayer(playerid, 3276, 237.608994, 1095.031006, 13.562000, 0.250000);
+RemoveBuildingForPlayer(playerid, 14795, 1388.882813, -20.882799, 1005.203125, 0.250000);

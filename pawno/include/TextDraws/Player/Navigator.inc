@@ -1,0 +1,10 @@
+	NAVpTD[playerid] = CreatePlayerTextDraw(playerid, 405.724487, 415.166564, "Distance Left: ~y~0000.00m");
+	PlayerTextDrawLetterSize(playerid, NAVpTD[playerid], 0.179326, 1.109999);
+	PlayerTextDrawAlignment(playerid, NAVpTD[playerid], 1);
+	PlayerTextDrawColor(playerid, NAVpTD[playerid], -1);
+	PlayerTextDrawSetShadow(playerid, NAVpTD[playerid], 0);
+	PlayerTextDrawSetOutline(playerid, NAVpTD[playerid], 0);
+	PlayerTextDrawBackgroundColor(playerid, NAVpTD[playerid], 255);
+	PlayerTextDrawFont(playerid, NAVpTD[playerid], 2);
+	PlayerTextDrawSetProportional(playerid, NAVpTD[playerid], 1);
+	PlayerTextDrawSetShadow(playerid, NAVpTD[playerid], 0);

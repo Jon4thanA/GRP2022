@@ -1,0 +1,13 @@
+DMTXT[playerid] = CreatePlayerTextDraw(playerid, 159.824310, 363.416687, "~n~~g~Kills:~w~ 0~n~~r~Deaths:~w~ 0");
+PlayerTextDrawLetterSize(playerid, DMTXT[playerid], 0.372224, 1.372497);
+PlayerTextDrawTextSize(playerid, DMTXT[playerid], 300.405548, 60.833336);
+PlayerTextDrawAlignment(playerid, DMTXT[playerid], 1);
+PlayerTextDrawColor(playerid, DMTXT[playerid], 0xFFFFFFFF);
+PlayerTextDrawUseBox(playerid, DMTXT[playerid], 0);
+PlayerTextDrawBoxColor(playerid, DMTXT[playerid], 0x80808080);
+PlayerTextDrawSetShadow(playerid, DMTXT[playerid], 0);
+PlayerTextDrawSetOutline(playerid, DMTXT[playerid], 1);
+PlayerTextDrawBackgroundColor(playerid, DMTXT[playerid], 0x000000FF);
+PlayerTextDrawFont(playerid, DMTXT[playerid], 3);
+PlayerTextDrawSetProportional(playerid, DMTXT[playerid], 1);
+PlayerTextDrawSetSelectable(playerid, DMTXT[playerid], 0);

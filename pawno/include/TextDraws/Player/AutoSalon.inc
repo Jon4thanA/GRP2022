@@ -1,0 +1,10 @@
+AutoSalonPTXT[playerid] = CreatePlayerTextDraw(playerid, 310.784210, 366.750274, "1000$");
+PlayerTextDrawLetterSize(playerid, AutoSalonPTXT[playerid], 0.228705, 0.777499);
+PlayerTextDrawAlignment(playerid, AutoSalonPTXT[playerid], 2);
+PlayerTextDrawColor(playerid, AutoSalonPTXT[playerid], -1);
+PlayerTextDrawSetShadow(playerid, AutoSalonPTXT[playerid], 0);
+PlayerTextDrawSetOutline(playerid, AutoSalonPTXT[playerid], 0);
+PlayerTextDrawBackgroundColor(playerid, AutoSalonPTXT[playerid], 255);
+PlayerTextDrawFont(playerid, AutoSalonPTXT[playerid], 1);
+PlayerTextDrawSetProportional(playerid, AutoSalonPTXT[playerid], 1);
+PlayerTextDrawSetShadow(playerid, AutoSalonPTXT[playerid], 0);

@@ -1,0 +1,645 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:24:17] weburl = "forum.genuine-rp.ge"  (string)
+[16:24:17] 
+[16:24:17] Server Plugins
+[16:24:17] --------------
+[16:24:17]  Loading plugin: crashdetect.so
+[16:24:20]   Failed.
+[16:24:20]  Loading plugin: mysql.so
+[16:24:20]   Failed.
+[16:24:20]  Loading plugin: pawncmd.so
+[16:24:21]   Failed.
+[16:24:21]  Loading plugin: pawn-memory.so
+[16:24:21]   Failed.
+[16:24:21]  Loading plugin: SKY.so
+[16:24:21]   Failed.
+[16:24:21]  Loading plugin: sscanf.so
+[16:24:22]   Failed.
+[16:24:22]  Loading plugin: streamer.so
+[16:24:22]   Failed.
+[16:24:22]  Loading plugin: pawnraknet.so
+[16:24:22]   Failed.
+[16:24:22]  Loading plugin: sampvoice.so
+[16:24:22]   Failed.
+[16:24:22]  Loading plugin: libsamp.so
+[16:24:22]   Failed.
+[16:24:22]  Loaded 0 plugins.
+
+[16:24:23] 
+[16:24:23] Filterscripts
+[16:24:23] ---------------
+[16:24:23]   Loading filterscript 'anticrash.amx'...
+[16:24:23] loaded anticrash
+[16:24:23]   Loaded 1 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:25:43] weburl = "forum.genuine-rp.ge"  (string)
+[16:25:43] 
+[16:25:43] Server Plugins
+[16:25:43] --------------
+[16:25:43]  Loading plugin: crashdetect.dll
+[16:25:43]   CrashDetect plugin 4.19.4
+[16:25:43]   Loaded.
+[16:25:43]  Loading plugin: mysql.dll
+[16:25:44]   Failed.
+[16:25:44]  Loading plugin: pawncmd.dll
+[16:25:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:25:44]   Loaded.
+[16:25:44]  Loading plugin: pawn-memory.dll
+[16:25:44] ========================
+[16:25:44] = Memory access plugin =
+[16:25:44] =       Made by BigETI =
+[16:25:44] = Loaded!              =
+[16:25:44] ========================
+[16:25:44]   Loaded.
+[16:25:44]  Loading plugin: SKY.dll
+[16:25:44]   Loaded.
+[16:25:44]  Loading plugin: sscanf.dll
+[16:25:44] 
+
+[16:25:44]  ===============================
+
+[16:25:44]       sscanf plugin loaded.     
+
+[16:25:44]          Version:  2.8.1        
+
+[16:25:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:25:44]  ===============================
+
+[16:25:44]   Loaded.
+[16:25:44]  Loading plugin: streamer.dll
+[16:25:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:25:44]   Loaded.
+[16:25:44]  Loading plugin: pawnraknet.dll
+[16:25:44] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[16:25:44]   Loaded.
+[16:25:44]  Loading plugin: sampvoice.dll
+[16:25:44] [sv:dbg:network:init] : module initializing...
+[16:25:44] [dbg:raknet:init] : module initializing...
+[16:25:44] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[16:25:44] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[16:25:44] [dbg:raknet:init] : module initialized
+[16:25:44] [sv:dbg:network:init] : module initialized
+[16:25:44]  -------------------------------------------    
+[16:25:44]    ___                __   __    _              
+[16:25:44]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[16:25:44]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[16:25:44]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[16:25:44]                   |_|                           
+[16:25:44]  -------------------------------------------    
+[16:25:44]            SampVoice by MOR loaded              
+[16:25:44]  -------------------------------------------    
+[16:25:44]   Loaded.
+[16:25:44]  Loading plugin: libsamp.dll
+[16:25:44]   Failed.
+[16:25:44]  Loaded 8 plugins.
+
+[16:25:44] 
+[16:25:44] Filterscripts
+[16:25:44] ---------------
+[16:25:44]   Loading filterscript 'anticrash.amx'...
+[16:25:44] [sv:dbg:main:AmxLoad] : net game pointer (value:023B9C18) received
+[16:25:44] [sv:dbg:network:bind] : voice server running on port 63609
+[16:25:44] loaded anticrash
+[16:25:44]   Loaded 1 filterscripts.
+
+[16:25:44] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[16:25:44] [debug] Run time error 19: "File or function is not found"
+[16:25:44] [debug]  cache_get_row_count
+[16:25:44] [debug]  mysql_tquery
+[16:25:44] [debug]  mysql_query
+[16:25:44] [debug]  mysql_format
+[16:25:44] [debug]  cache_get_value_name
+[16:25:44] [debug]  mysql_close
+[16:25:44] [debug]  cache_get_value_name_int
+[16:25:44] [debug]  cache_get_value_name_float
+[16:25:44] [debug]  mysql_connect
+[16:25:44] [debug]  mysql_errno
+[16:25:44] [debug]  mysql_log
+[16:25:44] [debug]  mysql_set_charset
+[16:25:44] [debug]  MapAndreas_Init
+[16:25:44] [debug]  MapAndreas_FindZ_For2DCoord
+[16:25:44] [debug]  cache_get_value_index
+[16:25:44] [debug]  cache_get_value_index_int
+[16:25:44] [debug]  cache_get_value_index_float
+[16:25:44] [debug]  cache_insert_id
+[16:25:44] [debug] Run time error 19: "File or function is not found"
+[16:25:44] [debug]  cache_get_row_count
+[16:25:44] [debug]  mysql_tquery
+[16:25:44] [debug]  mysql_query
+[16:25:44] [debug]  mysql_format
+[16:25:44] [debug]  cache_get_value_name
+[16:25:44] [debug]  mysql_close
+[16:25:44] [debug]  cache_get_value_name_int
+[16:25:44] [debug]  cache_get_value_name_float
+[16:25:44] [debug]  mysql_connect
+[16:25:44] [debug]  mysql_errno
+[16:25:44] [debug]  mysql_log
+[16:25:44] [debug]  mysql_set_charset
+[16:25:44] [debug]  MapAndreas_Init
+[16:25:44] [debug]  MapAndreas_FindZ_For2DCoord
+[16:25:44] [debug]  cache_get_value_index
+[16:25:44] [debug]  cache_get_value_index_int
+[16:25:44] [debug]  cache_get_value_index_float
+[16:25:44] [debug]  cache_insert_id
+[16:25:44] Script[gamemodes/grpgm.amx]: Run time error 19: "File or function is not found"
+[16:25:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:26:28] weburl = "forum.genuine-rp.ge"  (string)
+[16:26:28] 
+[16:26:28] Server Plugins
+[16:26:28] --------------
+[16:26:28]  Loading plugin: crashdetect.dll
+[16:26:28]   CrashDetect plugin 4.19.4
+[16:26:28]   Loaded.
+[16:26:28]  Loading plugin: mysql.dll
+[16:26:28]   Failed.
+[16:26:28]  Loading plugin: pawncmd.dll
+[16:26:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:26:28]   Loaded.
+[16:26:28]  Loading plugin: pawn-memory.dll
+[16:26:28] ========================
+[16:26:28] = Memory access plugin =
+[16:26:28] =       Made by BigETI =
+[16:26:28] = Loaded!              =
+[16:26:28] ========================
+[16:26:28]   Loaded.
+[16:26:28]  Loading plugin: SKY.dll
+[16:26:29]   Loaded.
+[16:26:29]  Loading plugin: sscanf.dll
+[16:26:29] 
+
+[16:26:29]  ===============================
+
+[16:26:29]       sscanf plugin loaded.     
+
+[16:26:29]          Version:  2.8.1        
+
+[16:26:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:26:29]  ===============================
+
+[16:26:29]   Loaded.
+[16:26:29]  Loading plugin: streamer.dll
+[16:26:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:26:29]   Loaded.
+[16:26:29]  Loading plugin: pawnraknet.dll
+[16:26:29] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[16:26:29]   Loaded.
+[16:26:29]  Loading plugin: sampvoice.dll
+[16:26:29] [sv:dbg:network:init] : module initializing...
+[16:26:29] [dbg:raknet:init] : module initializing...
+[16:26:29] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[16:26:29] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[16:26:29] [dbg:raknet:init] : module initialized
+[16:26:29] [sv:dbg:network:init] : module initialized
+[16:26:29]  -------------------------------------------    
+[16:26:29]    ___                __   __    _              
+[16:26:29]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[16:26:29]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[16:26:29]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[16:26:29]                   |_|                           
+[16:26:29]  -------------------------------------------    
+[16:26:29]            SampVoice by MOR loaded              
+[16:26:29]  -------------------------------------------    
+[16:26:29]   Loaded.
+[16:26:29]  Loading plugin: libsamp.dll
+[16:26:29]   Failed.
+[16:26:29]  Loaded 8 plugins.
+
+[16:26:29] 
+[16:26:29] Filterscripts
+[16:26:29] ---------------
+[16:26:29]   Loading filterscript 'anticrash.amx'...
+[16:26:29] [sv:dbg:main:AmxLoad] : net game pointer (value:02409C18) received
+[16:26:29] [sv:dbg:network:bind] : voice server running on port 63147
+[16:26:29] loaded anticrash
+[16:26:29]   Loaded 1 filterscripts.
+
+[16:26:29] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[16:26:29] [debug] Run time error 19: "File or function is not found"
+[16:26:29] [debug]  cache_get_row_count
+[16:26:29] [debug]  mysql_tquery
+[16:26:29] [debug]  mysql_query
+[16:26:29] [debug]  mysql_format
+[16:26:29] [debug]  cache_get_value_name
+[16:26:29] [debug]  mysql_close
+[16:26:29] [debug]  cache_get_value_name_int
+[16:26:29] [debug]  cache_get_value_name_float
+[16:26:29] [debug]  mysql_connect
+[16:26:29] [debug]  mysql_errno
+[16:26:29] [debug]  mysql_log
+[16:26:29] [debug]  mysql_set_charset
+[16:26:29] [debug]  MapAndreas_Init
+[16:26:29] [debug]  MapAndreas_FindZ_For2DCoord
+[16:26:29] [debug]  cache_get_value_index
+[16:26:29] [debug]  cache_get_value_index_int
+[16:26:29] [debug]  cache_get_value_index_float
+[16:26:29] [debug]  cache_insert_id
+[16:26:29] [debug] Run time error 19: "File or function is not found"
+[16:26:29] [debug]  cache_get_row_count
+[16:26:29] [debug]  mysql_tquery
+[16:26:29] [debug]  mysql_query
+[16:26:29] [debug]  mysql_format
+[16:26:29] [debug]  cache_get_value_name
+[16:26:29] [debug]  mysql_close
+[16:26:29] [debug]  cache_get_value_name_int
+[16:26:29] [debug]  cache_get_value_name_float
+[16:26:29] [debug]  mysql_connect
+[16:26:29] [debug]  mysql_errno
+[16:26:29] [debug]  mysql_log
+[16:26:29] [debug]  mysql_set_charset
+[16:26:29] [debug]  MapAndreas_Init
+[16:26:29] [debug]  MapAndreas_FindZ_For2DCoord
+[16:26:29] [debug]  cache_get_value_index
+[16:26:29] [debug]  cache_get_value_index_int
+[16:26:29] [debug]  cache_get_value_index_float
+[16:26:29] [debug]  cache_insert_id
+[16:26:29] Script[gamemodes/grpgm.amx]: Run time error 19: "File or function is not found"
+[16:26:29] Number of vehicle models: 0
+[16:26:30]  -------------------------------------------
+[16:26:30]            SampVoice unloading...           
+[16:26:30]  -------------------------------------------
+[16:26:31] [dbg:raknet:free] : module releasing...
+[16:26:31] [dbg:raknet:free] : module released
+[16:26:31] [sv:dbg:network:free] : module releasing...
+[16:26:31] [sv:dbg:network:free] : module released
+[16:26:36]  -------------------------------------------
+[16:26:36]            SampVoice unloading...           
+[16:26:36]  -------------------------------------------
+[16:26:36] [dbg:raknet:free] : module releasing...
+[16:26:36] [dbg:raknet:free] : module released
+[16:26:36] [sv:dbg:network:free] : module releasing...
+[16:26:36] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:26:56] weburl = "forum.genuine-rp.ge"  (string)
+[16:26:56] 
+[16:26:56] Server Plugins
+[16:26:56] --------------
+[16:26:56]  Loading plugin: crashdetect.dll
+[16:26:56]   CrashDetect plugin 4.19.4
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: mysql.dll
+[16:26:56]   Failed.
+[16:26:56]  Loading plugin: pawncmd.dll
+[16:26:56] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: pawn-memory.dll
+[16:26:56] ========================
+[16:26:56] = Memory access plugin =
+[16:26:56] =       Made by BigETI =
+[16:26:56] = Loaded!              =
+[16:26:56] ========================
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: SKY.dll
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: sscanf.dll
+[16:26:56] 
+
+[16:26:56]  ===============================
+
+[16:26:56]       sscanf plugin loaded.     
+
+[16:26:56]          Version:  2.8.1        
+
+[16:26:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:26:56]  ===============================
+
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: streamer.dll
+[16:26:56] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: pawnraknet.dll
+[16:26:56] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: sampvoice.dll
+[16:26:56] [sv:dbg:network:init] : module initializing...
+[16:26:56] [dbg:raknet:init] : module initializing...
+[16:26:56] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[16:26:56] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[16:26:56] [dbg:raknet:init] : module initialized
+[16:26:56] [sv:dbg:network:init] : module initialized
+[16:26:56]  -------------------------------------------    
+[16:26:56]    ___                __   __    _              
+[16:26:56]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[16:26:56]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[16:26:56]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[16:26:56]                   |_|                           
+[16:26:56]  -------------------------------------------    
+[16:26:56]            SampVoice by MOR loaded              
+[16:26:56]  -------------------------------------------    
+[16:26:56]   Loaded.
+[16:26:56]  Loading plugin: libsamp.dll
+[16:26:56]   Failed.
+[16:26:56]  Loaded 8 plugins.
+
+[16:26:56] 
+[16:26:56] Filterscripts
+[16:26:56] ---------------
+[16:26:56]   Loading filterscript 'anticrash.amx'...
+[16:26:56] [sv:dbg:main:AmxLoad] : net game pointer (value:02469C18) received
+[16:26:56] [sv:dbg:network:bind] : voice server running on port 57676
+[16:26:56] loaded anticrash
+[16:26:56]   Loaded 1 filterscripts.
+
+[16:26:56] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[16:26:56] [debug] Run time error 19: "File or function is not found"
+[16:26:56] [debug]  cache_get_row_count
+[16:26:56] [debug]  mysql_tquery
+[16:26:56] [debug]  mysql_query
+[16:26:56] [debug]  mysql_format
+[16:26:56] [debug]  cache_get_value_name
+[16:26:56] [debug]  mysql_close
+[16:26:56] [debug]  cache_get_value_name_int
+[16:26:56] [debug]  cache_get_value_name_float
+[16:26:56] [debug]  mysql_connect
+[16:26:56] [debug]  mysql_errno
+[16:26:56] [debug]  mysql_log
+[16:26:56] [debug]  mysql_set_charset
+[16:26:56] [debug]  MapAndreas_Init
+[16:26:56] [debug]  MapAndreas_FindZ_For2DCoord
+[16:26:56] [debug]  cache_get_value_index
+[16:26:56] [debug]  cache_get_value_index_int
+[16:26:56] [debug]  cache_get_value_index_float
+[16:26:56] [debug]  cache_insert_id
+[16:26:56] [debug] Run time error 19: "File or function is not found"
+[16:26:56] [debug]  cache_get_row_count
+[16:26:56] [debug]  mysql_tquery
+[16:26:56] [debug]  mysql_query
+[16:26:56] [debug]  mysql_format
+[16:26:56] [debug]  cache_get_value_name
+[16:26:56] [debug]  mysql_close
+[16:26:56] [debug]  cache_get_value_name_int
+[16:26:56] [debug]  cache_get_value_name_float
+[16:26:56] [debug]  mysql_connect
+[16:26:56] [debug]  mysql_errno
+[16:26:56] [debug]  mysql_log
+[16:26:56] [debug]  mysql_set_charset
+[16:26:56] [debug]  MapAndreas_Init
+[16:26:56] [debug]  MapAndreas_FindZ_For2DCoord
+[16:26:56] [debug]  cache_get_value_index
+[16:26:56] [debug]  cache_get_value_index_int
+[16:26:56] [debug]  cache_get_value_index_float
+[16:26:56] [debug]  cache_insert_id
+[16:26:56] Script[gamemodes/grpgm.amx]: Run time error 19: "File or function is not found"
+[16:26:56] Number of vehicle models: 0
+[16:27:01]  -------------------------------------------
+[16:27:01]            SampVoice unloading...           
+[16:27:01]  -------------------------------------------
+[16:27:02] [dbg:raknet:free] : module releasing...
+[16:27:02] [dbg:raknet:free] : module released
+[16:27:02] [sv:dbg:network:free] : module releasing...
+[16:27:02] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:27:31] weburl = "forum.genuine-rp.ge"  (string)
+[16:27:31] 
+[16:27:31] Server Plugins
+[16:27:31] --------------
+[16:27:31]  Loading plugin: crashdetect.dll
+[16:27:31]   CrashDetect plugin 4.19.4
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: mysql.dll
+[16:27:31]   Failed.
+[16:27:31]  Loading plugin: pawncmd.dll
+[16:27:31] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: pawn-memory.dll
+[16:27:31] ========================
+[16:27:31] = Memory access plugin =
+[16:27:31] =       Made by BigETI =
+[16:27:31] = Loaded!              =
+[16:27:31] ========================
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: SKY.dll
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: sscanf.dll
+[16:27:31] 
+
+[16:27:31]  ===============================
+
+[16:27:31]       sscanf plugin loaded.     
+
+[16:27:31]          Version:  2.8.1        
+
+[16:27:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:27:31]  ===============================
+
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: streamer.dll
+[16:27:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: pawnraknet.dll
+[16:27:31] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: sampvoice.dll
+[16:27:31] [sv:dbg:network:init] : module initializing...
+[16:27:31] [dbg:raknet:init] : module initializing...
+[16:27:31] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0044FAD0)
+[16:27:31] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0046D970)
+[16:27:31] [dbg:raknet:init] : module initialized
+[16:27:31] [sv:dbg:network:init] : module initialized
+[16:27:31]  -------------------------------------------    
+[16:27:31]    ___                __   __    _              
+[16:27:31]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[16:27:31]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[16:27:31]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[16:27:31]                   |_|                           
+[16:27:31]  -------------------------------------------    
+[16:27:31]            SampVoice by MOR loaded              
+[16:27:31]  -------------------------------------------    
+[16:27:31]   Loaded.
+[16:27:31]  Loading plugin: libsamp.dll
+[16:27:31]   Failed.
+[16:27:31]  Loaded 8 plugins.
+
+[16:27:32] 
+[16:27:32] Filterscripts
+[16:27:32] ---------------
+[16:27:32]   Loading filterscript 'anticrash.amx'...
+[16:27:32] [sv:dbg:main:AmxLoad] : net game pointer (value:005D9C18) received
+[16:27:32] [sv:dbg:network:bind] : voice server running on port 55880
+[16:27:32] loaded anticrash
+[16:27:32]   Loaded 1 filterscripts.
+
+[16:27:32] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[16:27:32] [debug] Run time error 19: "File or function is not found"
+[16:27:32] [debug]  cache_get_row_count
+[16:27:32] [debug]  mysql_tquery
+[16:27:32] [debug]  mysql_query
+[16:27:32] [debug]  mysql_format
+[16:27:32] [debug]  cache_get_value_name
+[16:27:32] [debug]  mysql_close
+[16:27:32] [debug]  cache_get_value_name_int
+[16:27:32] [debug]  cache_get_value_name_float
+[16:27:32] [debug]  mysql_connect
+[16:27:32] [debug]  mysql_errno
+[16:27:32] [debug]  mysql_log
+[16:27:32] [debug]  mysql_set_charset
+[16:27:32] [debug]  MapAndreas_Init
+[16:27:32] [debug]  MapAndreas_FindZ_For2DCoord
+[16:27:32] [debug]  cache_get_value_index
+[16:27:32] [debug]  cache_get_value_index_int
+[16:27:32] [debug]  cache_get_value_index_float
+[16:27:32] [debug]  cache_insert_id
+[16:27:32] [debug] Run time error 19: "File or function is not found"
+[16:27:32] [debug]  cache_get_row_count
+[16:27:32] [debug]  mysql_tquery
+[16:27:32] [debug]  mysql_query
+[16:27:32] [debug]  mysql_format
+[16:27:32] [debug]  cache_get_value_name
+[16:27:32] [debug]  mysql_close
+[16:27:32] [debug]  cache_get_value_name_int
+[16:27:32] [debug]  cache_get_value_name_float
+[16:27:32] [debug]  mysql_connect
+[16:27:32] [debug]  mysql_errno
+[16:27:32] [debug]  mysql_log
+[16:27:32] [debug]  mysql_set_charset
+[16:27:32] [debug]  MapAndreas_Init
+[16:27:32] [debug]  MapAndreas_FindZ_For2DCoord
+[16:27:32] [debug]  cache_get_value_index
+[16:27:32] [debug]  cache_get_value_index_int
+[16:27:32] [debug]  cache_get_value_index_float
+[16:27:32] [debug]  cache_insert_id
+[16:27:32] Script[gamemodes/grpgm.amx]: Run time error 19: "File or function is not found"
+[16:27:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:25:59] 
+[21:25:59] Server Plugins
+[21:25:59] --------------
+[21:25:59]  Loading plugin: crashdetect.dll
+[21:25:59]   Failed (plugins/crashdetect.dll: invalid ELF header)
+[21:25:59]  Loading plugin: mysql.dll
+[21:25:59]   Failed (plugins/mysql.dll: invalid ELF header)
+[21:25:59]  Loading plugin: pawncmd.dll
+[21:25:59]   Failed (plugins/pawncmd.dll: invalid ELF header)
+[21:25:59]  Loading plugin: pawn-memory.dll
+[21:25:59]   Failed (plugins/pawn-memory.dll: invalid ELF header)
+[21:25:59]  Loading plugin: SKY.dll
+[21:25:59]   Failed (plugins/SKY.dll: invalid ELF header)
+[21:25:59]  Loading plugin: sscanf.dll
+[21:25:59]   Failed (plugins/sscanf.dll: invalid ELF header)
+[21:25:59]  Loading plugin: streamer.dll
+[21:25:59]   Failed (plugins/streamer.dll: invalid ELF header)
+[21:25:59]  Loading plugin: pawnraknet.dll
+[21:25:59]   Failed (plugins/pawnraknet.dll: invalid ELF header)
+[21:25:59]  Loading plugin: sampvoice.dll
+[21:25:59]   Failed (plugins/sampvoice.dll: invalid ELF header)
+[21:25:59]  Loading plugin: libsamp.dll
+[21:25:59]   Failed (plugins/libsamp.dll: cannot open shared object file: No such file or directory)
+[21:25:59]  Loaded 0 plugins.
+
+[21:25:59] 
+[21:25:59] Filterscripts
+[21:25:59] ---------------
+[21:25:59]   Loading filterscript 'anticrash.amx'...
+[21:25:59] loaded anticrash
+[21:25:59]   Loaded 1 filterscripts.
+
+[21:26:00] Script[gamemodes/grpgm.amx]: Run time error 19: "File or function is not found"
+[21:26:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:28:05] 
+[21:28:05] Server Plugins
+[21:28:05] --------------
+[21:28:05]  Loading plugin: crashdetect.dll
+[21:28:05]   Failed (plugins/crashdetect.dll: invalid ELF header)
+[21:28:05]  Loading plugin: mysql.dll
+[21:28:05]   Failed (plugins/mysql.dll: invalid ELF header)
+[21:28:05]  Loading plugin: pawncmd.dll
+[21:28:05]   Failed (plugins/pawncmd.dll: invalid ELF header)
+[21:28:05]  Loading plugin: pawn-memory.dll
+[21:28:05]   Failed (plugins/pawn-memory.dll: invalid ELF header)
+[21:28:05]  Loading plugin: SKY.dll
+[21:28:05]   Failed (plugins/SKY.dll: invalid ELF header)
+[21:28:05]  Loading plugin: sscanf.dll
+[21:28:05]   Failed (plugins/sscanf.dll: invalid ELF header)
+[21:28:05]  Loading plugin: streamer.dll
+[21:28:05]   Failed (plugins/streamer.dll: invalid ELF header)
+[21:28:05]  Loading plugin: pawnraknet.dll
+[21:28:05]   Failed (plugins/pawnraknet.dll: invalid ELF header)
+[21:28:05]  Loading plugin: sampvoice.dll
+[21:28:05]   Failed (plugins/sampvoice.dll: invalid ELF header)
+[21:28:05]  Loading plugin: libsamp.dll
+[21:28:05]   Failed (plugins/libsamp.dll: cannot open shared object file: No such file or directory)
+[21:28:05]  Loaded 0 plugins.
+
+[21:28:05] 
+[21:28:05] Filterscripts
+[21:28:05] ---------------
+[21:28:05]   Loading filterscript 'anticrash.amx'...
+[21:28:05] loaded anticrash
+[21:28:05]   Loaded 1 filterscripts.
+
+[21:28:05] Script[gamemodes/grpgm.amx]: Run time error 19: "File or function is not found"
+[21:28:05] Number of vehicle models: 0

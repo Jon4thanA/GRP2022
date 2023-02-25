@@ -1,0 +1,24 @@
+	NAVTD[0] = TextDrawCreate(404.319183, 409.916809, "box");
+	TextDrawLetterSize(NAVTD[0], 0.000000, 1.941436);
+	TextDrawTextSize(NAVTD[0], 498.000000, 0.000000);
+	TextDrawAlignment(NAVTD[0], 1);
+	TextDrawColor(NAVTD[0], -1);
+	TextDrawUseBox(NAVTD[0], 1);
+	TextDrawBoxColor(NAVTD[0], 100);
+	TextDrawSetShadow(NAVTD[0], 0);
+	TextDrawSetOutline(NAVTD[0], 0);
+	TextDrawBackgroundColor(NAVTD[0], 255);
+	TextDrawFont(NAVTD[0], 1);
+	TextDrawSetProportional(NAVTD[0], 1);
+	TextDrawSetShadow(NAVTD[0], 0);
+
+	NAVTD[1] = TextDrawCreate(404.787597, 399.999847, "Navigation Info");
+	TextDrawLetterSize(NAVTD[1], 0.299736, 1.115833);
+	TextDrawAlignment(NAVTD[1], 1);
+	TextDrawColor(NAVTD[1], -5963521);
+	TextDrawSetShadow(NAVTD[1], 1);
+	TextDrawSetOutline(NAVTD[1], 0);
+	TextDrawBackgroundColor(NAVTD[1], 255);
+	TextDrawFont(NAVTD[1], 0);
+	TextDrawSetProportional(NAVTD[1], 1);
+	TextDrawSetShadow(NAVTD[1], 1);

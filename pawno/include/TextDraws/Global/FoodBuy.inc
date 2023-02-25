@@ -1,0 +1,130 @@
+ 	FoodBuy[0] = TextDrawCreate(240.000000, 175.416671, "box");
+	TextDrawLetterSize(FoodBuy[0], 0.000000, 14.187500);
+	TextDrawTextSize(FoodBuy[0], 413.000000, 0.000000);
+	TextDrawAlignment(FoodBuy[0], 1);
+	TextDrawColor(FoodBuy[0], -1);
+	TextDrawUseBox(FoodBuy[0], 1);
+	TextDrawBoxColor(FoodBuy[0], 674248703);
+	TextDrawSetShadow(FoodBuy[0], 0);
+	TextDrawBackgroundColor(FoodBuy[0], 255);
+	TextDrawFont(FoodBuy[0], 1);
+	TextDrawSetProportional(FoodBuy[0], 1);
+
+	FoodBuy[1] = TextDrawCreate(240.175048, 175.616653, "box");
+	TextDrawLetterSize(FoodBuy[1], 0.000000, 1.143999);
+	TextDrawTextSize(FoodBuy[1], 413.000000, 0.000000);
+	TextDrawAlignment(FoodBuy[1], 1);
+	TextDrawColor(FoodBuy[1], -1);
+	TextDrawUseBox(FoodBuy[1], 1);
+	TextDrawBoxColor(FoodBuy[1], -1523963137);
+	TextDrawSetShadow(FoodBuy[1], 0);
+	TextDrawBackgroundColor(FoodBuy[1], 255);
+	TextDrawFont(FoodBuy[1], 1);
+	TextDrawSetProportional(FoodBuy[1], 1);
+
+	FoodBuy[2] = TextDrawCreate(268.125000, 274.583343, "LD_SPAC:white");
+	TextDrawTextSize(FoodBuy[2], 38.000000, 12.000000);
+	TextDrawAlignment(FoodBuy[2], 1);
+	TextDrawColor(FoodBuy[2], -1523963137);
+	TextDrawSetShadow(FoodBuy[2], 0);
+	TextDrawBackgroundColor(FoodBuy[2], 255);
+	TextDrawFont(FoodBuy[2], 4);
+	TextDrawSetProportional(FoodBuy[2], 0);
+	TextDrawSetSelectable(FoodBuy[2], true);
+
+	FoodBuy[3] = TextDrawCreate(348.629913, 274.583343, "LD_SPAC:white");
+	TextDrawTextSize(FoodBuy[3], 38.000000, 12.000000);
+	TextDrawAlignment(FoodBuy[3], 1);
+	TextDrawColor(FoodBuy[3], -1523963137);
+	TextDrawSetShadow(FoodBuy[3], 0);
+	TextDrawBackgroundColor(FoodBuy[3], 255);
+	TextDrawFont(FoodBuy[3], 4);
+	TextDrawSetProportional(FoodBuy[3], 0);
+	TextDrawSetSelectable(FoodBuy[3], true);
+
+	FoodBuy[4] = TextDrawCreate(277.174865, 274.516632, "FOOD");
+	TextDrawLetterSize(FoodBuy[4], 0.186875, 1.104165);
+	TextDrawAlignment(FoodBuy[4], 1);
+	TextDrawColor(FoodBuy[4], -1);
+	TextDrawSetShadow(FoodBuy[4], 0);
+	TextDrawBackgroundColor(FoodBuy[4], 255);
+	TextDrawFont(FoodBuy[4], 2);
+	TextDrawSetProportional(FoodBuy[4], 1);
+
+	FoodBuy[5] = TextDrawCreate(357.650085, 274.900054, "DRINK");
+	TextDrawLetterSize(FoodBuy[5], 0.186875, 1.104165);
+	TextDrawAlignment(FoodBuy[5], 1);
+	TextDrawColor(FoodBuy[5], -1);
+	TextDrawSetShadow(FoodBuy[5], 0);
+	TextDrawBackgroundColor(FoodBuy[5], 255);
+	TextDrawFont(FoodBuy[5], 2);
+	TextDrawSetProportional(FoodBuy[5], 1);
+
+	FoodBuy[6] = TextDrawCreate(254.375000, 196.416610, "LD_BEAT:CHIT");
+	TextDrawTextSize(FoodBuy[6], 64.000000, 65.000000);
+	TextDrawAlignment(FoodBuy[6], 1);
+	TextDrawColor(FoodBuy[6], -1523963137);
+	TextDrawSetShadow(FoodBuy[6], 0);
+	TextDrawBackgroundColor(FoodBuy[6], 255);
+	TextDrawFont(FoodBuy[6], 4);
+	TextDrawSetProportional(FoodBuy[6], 0);
+
+	FoodBuy[7] = TextDrawCreate(334.279876, 196.416610, "LD_BEAT:CHIT");
+	TextDrawTextSize(FoodBuy[7], 64.000000, 65.000000);
+	TextDrawAlignment(FoodBuy[7], 1);
+	TextDrawColor(FoodBuy[7], -1523963137);
+	TextDrawSetShadow(FoodBuy[7], 0);
+	TextDrawBackgroundColor(FoodBuy[7], 255);
+	TextDrawFont(FoodBuy[7], 4);
+	TextDrawSetProportional(FoodBuy[7], 0);
+
+	FoodBuy[8] = TextDrawCreate(329.375000, 193.499984, "");
+	TextDrawTextSize(FoodBuy[8], 73.000000, 69.000000);
+	TextDrawAlignment(FoodBuy[8], 1);
+	TextDrawColor(FoodBuy[8], -1);
+	TextDrawSetShadow(FoodBuy[8], 0);
+	TextDrawFont(FoodBuy[8], 5);
+	TextDrawBackgroundColor(FoodBuy[8], 0x00000000);
+	TextDrawSetProportional(FoodBuy[8], 0);
+	TextDrawSetPreviewModel(FoodBuy[8], 19563);
+	TextDrawSetPreviewRot(FoodBuy[8], 0.000000, 0.000000, 35.000000, 1.000000);
+
+	FoodBuy[9] = TextDrawCreate(244.375000, 187.083328, "");
+	TextDrawTextSize(FoodBuy[9], 82.000000, 77.000000);
+	TextDrawAlignment(FoodBuy[9], 1);
+	TextDrawColor(FoodBuy[9], -1);
+	TextDrawSetShadow(FoodBuy[9], 0);
+	TextDrawFont(FoodBuy[9], 5);
+	TextDrawBackgroundColor(FoodBuy[9], 0x00000000);
+	TextDrawSetProportional(FoodBuy[9], 0);
+	TextDrawSetPreviewModel(FoodBuy[9], 2768);
+	TextDrawSetPreviewRot(FoodBuy[9], 0.000000, 0.000000, 35.000000, 1.000000);
+
+	FoodBuy[10] = TextDrawCreate(276.250000, 173.666656, "GENUINE_ROLE_PLAY");
+	TextDrawLetterSize(FoodBuy[10], 0.268125, 1.384166);
+	TextDrawAlignment(FoodBuy[10], 1);
+	TextDrawColor(FoodBuy[10], -1);
+	TextDrawSetShadow(FoodBuy[10], 0);
+	TextDrawBackgroundColor(FoodBuy[10], 255);
+	TextDrawFont(FoodBuy[10], 2);
+	TextDrawSetProportional(FoodBuy[10], 1);
+
+	FoodBuy[11] = TextDrawCreate(397.424957, 171.499938, "LD_BEAT:CHIT");
+	TextDrawTextSize(FoodBuy[11], 19.000000, 19.000000);
+	TextDrawAlignment(FoodBuy[11], 1);
+	TextDrawColor(FoodBuy[11], 674248703);
+	TextDrawSetShadow(FoodBuy[11], 0);
+	TextDrawBackgroundColor(FoodBuy[11], 255);
+	TextDrawFont(FoodBuy[11], 4);
+	TextDrawSetProportional(FoodBuy[11], 0);
+	TextDrawSetSelectable(FoodBuy[11], true);
+
+	FoodBuy[12] = TextDrawCreate(403.549987, 176.566619, "X");
+	TextDrawLetterSize(FoodBuy[12], 0.314374, 0.853333);
+	TextDrawTextSize(FoodBuy[12], 3.000000, 0.000000);
+	TextDrawAlignment(FoodBuy[12], 1);
+	TextDrawColor(FoodBuy[12], -2032263169);
+	TextDrawSetShadow(FoodBuy[12], 0);
+	TextDrawBackgroundColor(FoodBuy[12], 255);
+	TextDrawFont(FoodBuy[12], 1);
+	TextDrawSetProportional(FoodBuy[12], 1);
